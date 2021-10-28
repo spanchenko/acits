@@ -8,7 +8,7 @@ git clone https://github.com/spanchenko/acits.git
 cd acits
 python3 -m venv .venv
 source .venv/bin/activate
-pip install -r requiremets.txt
+pip install -r requirements.txt
 cd src/acits_task
 ```
 
